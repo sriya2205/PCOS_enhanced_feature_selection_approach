@@ -1,0 +1,51 @@
+Feature,Importance Score,Rank,Fold
+Follicle No. (R),53.042447235531135,1,1
+hair growth(Y/N),44.00873217641208,2,1
+Follicle No. (L),43.30061885818635,3,1
+Fast food (Y/N),33.70438935193305,4,1
+Hair loss(Y/N),28.07969686160725,5,1
+Weight gain(Y/N),26.690400401495534,6,1
+Skin darkening (Y/N),24.093363399132585,7,1
+Cycle(R/I),21.80330897216609,8,1
+Pimples(Y/N),10.898515319512617,9,1
+Cycle length(days),0.7015611973848315,10,1
+Follicle No. (R),60.0,1,2
+Follicle No. (L),55.0,2,2
+hair growth(Y/N),41.28244005641752,3,2
+Cycle(R/I),29.574655820712195,4,2
+Skin darkening (Y/N),29.331275021275054,5,2
+Fast food (Y/N),18.348890641410765,6,2
+Weight gain(Y/N),16.75147213200801,7,2
+Pimples(Y/N),9.929225645295599,8,2
+Cycle length(days),6.558852469764013,9,2
+Hair loss(Y/N),0.05046177282681154,10,2
+Follicle No. (R),60.0,1,3
+Follicle No. (L),55.0,2,3
+Weight gain(Y/N),49.40824251534508,3,3
+Skin darkening (Y/N),40.41040602966206,4,3
+Cycle(R/I),17.702137869202303,5,3
+Fast food (Y/N),12.147649668511038,6,3
+Pimples(Y/N),11.470236308702011,7,3
+hair growth(Y/N),7.936179616370541,8,3
+Cycle length(days),5.133526384223247,9,3
+Hair loss(Y/N),1.80888039796587,10,3
+Follicle No. (R),60.0,1,4
+Follicle No. (L),55.0,2,4
+hair growth(Y/N),58.50182576943131,3,4
+Fast food (Y/N),22.944543828264763,4,4
+Weight gain(Y/N),18.049822719528468,5,4
+Skin darkening (Y/N),13.645547639112335,6,4
+Cycle(R/I),10.985163910320209,7,4
+Pimples(Y/N),5.714938292931038,8,4
+Cycle length(days),2.308914778936423,9,4
+Hair loss(Y/N),1.6845285001313375,10,4
+Follicle No. (R),60.0,1,5
+Skin darkening (Y/N),55.0,2,5
+Follicle No. (L),56.48437822248827,3,5
+Cycle(R/I),28.18901098901105,4,5
+Weight gain(Y/N),27.376228775692624,5,5
+hair growth(Y/N),20.368627450980412,6,5
+Fast food (Y/N),10.589990557129386,7,5
+Pimples(Y/N),9.607490636704124,8,5
+Cycle length(days),5.65003885003882,9,5
+Hair loss(Y/N),1.8596491228070193,10,5

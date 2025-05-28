@@ -1,0 +1,11 @@
+Feature,Importance Score,Rank
+Follicle No. (R),60.0,1
+Follicle No. (L),55.0,2
+Skin darkening (Y/N),157.67217793991148,3
+hair growth(Y/N),148.425534017251,4
+Weight gain(Y/N),130.16844777201683,5
+Cycle(R/I),103.6748283221794,6
+Fast food (Y/N),90.25330743780597,7
+Pimples(Y/N),48.04356633546898,8
+Cycle length(days),17.7348592939936,9
+Hair loss(Y/N),16.605366186917554,10
